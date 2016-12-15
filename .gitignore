@@ -1,0 +1,9 @@
+output_videos/
+.DS_Store
+*output.jpg
+*output.png
+
+white.mp4
+yellow.mp4
+extra.mp4
+
