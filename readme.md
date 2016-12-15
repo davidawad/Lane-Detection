@@ -1,11 +1,11 @@
-## Lane Detection
+# Lane Detection
 
 This project uses Canny Edge Detection, Hough Transforms, and linear regression to identify and mark lane lines on a road.
 
 ![](test_images/solidWhiteRight_output.png)
 
 
-### How it works
+## How it works
 This is an algorithm that uses Canny Edge detection hough transformations and polynomial regression to determine the the edges of lines in order to perform lane detection
 
 There are a couple of algorithms to decide how to draw the lines, regression being the last thing I came up with. 
