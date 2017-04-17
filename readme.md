@@ -2,6 +2,8 @@
 
 This project uses Canny Edge Detection, Hough Transforms, and linear regression to identify and mark lane lines on a road.
 
+This repo was written with the hope that it would be easy to understand for someone not farmiliar with the project.
+
 ![](test_images/solidWhiteRight_output.png)
 
 
