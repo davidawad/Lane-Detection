@@ -8,6 +8,12 @@ This repo was written with the hope that it would be easy to understand for some
 
 
 ## How it works
+We can describe this process in a straightforward way. 
+
+- Detect the lane lines by looking at color contrast gradients in the image
+- fit a curve to the points that make the line
+- draw the red lines on top of the lane lines
+
 This is an algorithm that uses Canny Edge detection hough transformations and polynomial regression to determine the the edges of lines in order to perform lane detection
 
 There are a couple of algorithms to decide how to draw the lines, regression being the last thing I came up with. 
