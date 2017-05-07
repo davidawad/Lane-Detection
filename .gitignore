@@ -1,4 +1,5 @@
-output_videos/
+.ipynb_checkpoints
+output_videos
 .DS_Store
 *output.jpg
 *output.png
